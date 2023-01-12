@@ -1,1 +1,1 @@
-Tähän tulee tekstiä, miten ohjelma toimii
+Ohjelmassa valitaan haluttuja kursseja, josta aukeaa eri valintoja 
